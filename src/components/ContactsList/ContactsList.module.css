@@ -1,0 +1,17 @@
+.contactsList{
+    list-style: none;
+}
+.contactsList{
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contactsButton{
+    margin-top: 7px;
+    width: 152px;
+    height: 24px;
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+}

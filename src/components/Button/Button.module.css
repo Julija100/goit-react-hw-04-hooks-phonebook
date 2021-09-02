@@ -1,0 +1,13 @@
+.addContactButton{
+      width: 160px;
+  height: 25px;
+  
+  color: blue;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: aliceblue;
+  border-radius: 15px;
+  box-shadow: var(--basic-box-shadow);
+  margin-top: 15px;
+}
